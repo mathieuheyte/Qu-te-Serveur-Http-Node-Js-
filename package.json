@@ -1,0 +1,16 @@
+{
+  "name": "serveur_http_nodejs",
+  "version": "1.0.0",
+  "description": "Quete WCS Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mathieu Heyte",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jade": "1.11.0"
+  }
+}
